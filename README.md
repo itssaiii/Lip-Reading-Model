@@ -6,14 +6,14 @@ Using a 3D-Convolution Neural Network Architecture to generate text from the mov
 2 files :
 1. Video format in mpg
 
-![image](https://github.com/itssaiii/Lip-Reading-Model/assets/73930142/deb9c49f-3053-41df-b4d1-71fc545ad9a2)
+![image](https://github.com/itssaiii/Lip-Reading-Model/blob/main/images/mp4%20videos.PNG)
 
 
 2. Alignments in .align format where the words of the particular video had been stored
 
 
 
-    ![image](https://github.com/itssaiii/Lip-Reading-Model/assets/73930142/d667eef3-c6cc-4c7f-9ad7-4ab908ee7647)
+    ![image](https://github.com/itssaiii/Lip-Reading-Model/blob/main/images/align%20files.PNG)
     
     
 Dataset Link: 
@@ -47,5 +47,5 @@ Preprocessing Steps
 ## The exctracted gif from the video which will be fed to the Model: 
 
 
-![animation](https://github.com/itssaiii/Lip-Reading-Model/assets/73930142/f691eabf-805b-4127-9441-df3c7a67dae0)
+![animation](https://github.com/itssaiii/Lip-Reading-Model/blob/main/images/animation.gif)
 
